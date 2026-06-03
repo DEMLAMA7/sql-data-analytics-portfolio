@@ -11,7 +11,7 @@ FROM
     customers
 ORDER BY first_name ASC;
 
-describe products;
+describe products;S
 -- Combine WHERE and ORDER BY
 SELECT 
     product_id, product_name, price
